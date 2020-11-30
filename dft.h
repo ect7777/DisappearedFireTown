@@ -2,6 +2,7 @@
 #define DFT_H
 
 #include <QMainWindow>
+#include"Character.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class DFT; }
@@ -14,6 +15,8 @@ class DFT : public QMainWindow
 public:
     DFT(QWidget *parent = nullptr);
     ~DFT();
+private:
+    Character *a,*b;
 
 private:
     Ui::DFT *ui;
