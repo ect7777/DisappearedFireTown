@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file>button1.png</file>
+        <file>t1.png</file>
+        <file>backg.webp</file>
+        <file>buttonbk.png</file>
+        <file>image/dialog.png</file>
+        <file>image/DFTbackgr.png</file>
+        <file>sound/silver.wav</file>
+    </qresource>
+    <qresource prefix="/character">
+        <file>image/archer.png</file>
+        <file>image/dragon.png</file>
+        <file>image/fireDog.png</file>
+        <file>image/member.png</file>
+        <file>image/chiyan.png</file>
+        <file>image/fire.png</file>
+        <file>image/soulfire.png</file>
+        <file>image/firewild.png</file>
+        <file>image/hero2.png</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>plots/plot1</file>
+        <file>plots/plot2</file>
+        <file>plots/plot3</file>
+        <file>plots/plot4</file>
+        <file>plots/plot5</file>
+        <file>plots/plot6</file>
+        <file>plots/plot7</file>
+        <file>plots/plot8</file>
+        <file>plots/plot9</file>
+        <file>plots/plot10</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/DFTbackgr.png</file>
+        <file>button1.png</file>
+        <file>image/dialog.png</file>
+        <file>buttonbk.png</file>
+        <file>image/fightbackgr.png</file>
+        <file>image/view.png</file>
+        <file>image/arrow.png</file>
+        <file>image/start.png</file>
+        <file>image/EXIT.png</file>
+        <file>image/LOAD.png</file>
+        <file>image/CONTINUE.png</file>
+        <file>image/Disappeared_Firetown.png</file>
+        <file>image/zero.png</file>
+        <file>image/backlog.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sound/my heart.wav</file>
+        <file>sound/shooting.wav</file>
+        <file>sound/atk.wav</file>
+        <file>sound/dog.wav</file>
+        <file>sound/heal.wav</file>
+        <file>sound/rainstreet.wav</file>
+    </qresource>
+</RCC>

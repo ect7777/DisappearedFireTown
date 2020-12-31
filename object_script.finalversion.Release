@@ -1,0 +1,16 @@
+release/character.o
+release/fight.o
+release/fightwindow.o
+release/main.o
+release/dft.o
+release/mybutton.o
+release/plot.o
+release/view.o
+release/qrc_rsc.o
+release/moc_character.o
+release/moc_dft.o
+release/moc_fight.o
+release/moc_fightwindow.o
+release/moc_mybutton.o
+release/moc_plot.o
+release/moc_view.o

@@ -1,0 +1,16 @@
+debug/character.o
+debug/fight.o
+debug/fightwindow.o
+debug/main.o
+debug/dft.o
+debug/mybutton.o
+debug/plot.o
+debug/view.o
+debug/qrc_rsc.o
+debug/moc_character.o
+debug/moc_dft.o
+debug/moc_fight.o
+debug/moc_fightwindow.o
+debug/moc_mybutton.o
+debug/moc_plot.o
+debug/moc_view.o
